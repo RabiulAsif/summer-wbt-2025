@@ -1,0 +1,17 @@
+h2{
+    color: red;
+    margin: 0;
+}
+
+.form-group {
+    display: flex;
+    align-items: center; /* Vertically aligns items in the center */
+    margin-left: 150px;
+    margin-bottom: 5px; /* Adds space between groups */
+}
+
+.form-group label {
+    flex-basis: 100px;   /* Sets a fixed width for labels */
+    text-align: right;   /* Aligns label text to the right */
+    margin-right: 10px;  /* Adds space between label and input */
+}
