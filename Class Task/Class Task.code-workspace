@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Class Task"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}

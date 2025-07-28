@@ -5,13 +5,13 @@ h2{
 
 .form-group {
     display: flex;
-    align-items: center; /* Vertically aligns items in the center */
+    align-items: center; 
     margin-left: 150px;
-    margin-bottom: 5px; /* Adds space between groups */
+    margin-bottom: 5px; 
 }
 
 .form-group label {
-    flex-basis: 100px;   /* Sets a fixed width for labels */
-    text-align: right;   /* Aligns label text to the right */
-    margin-right: 10px;  /* Adds space between label and input */
+    flex-basis: 100px;
+    text-align: right;  
+    margin-right: 10px;  
 }
