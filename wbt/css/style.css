@@ -1,0 +1,22 @@
+
+
+h3 {
+  text-align: center;
+  border: 2px solid #022140;
+  padding: 10px;
+  margin: 30px 5px;
+  background-color: #3f96e1;
+  color: #e7e9eb;
+  border-radius: 5px;
+}
+
+.finish {
+  font-style: italic;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
