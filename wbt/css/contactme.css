@@ -70,6 +70,7 @@ form label {
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  margin: 20px auto;
 }
 
 .submit-btn:hover {
